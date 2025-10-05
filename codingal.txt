@@ -1,0 +1,2 @@
+ File in write mode ....Hi! I am David. I am 11 yr. old 
+ File in append mode ....Hi! I am David. I am 11 yr. old
